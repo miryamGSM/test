@@ -21,7 +21,7 @@ namespace GitMaster.LoginWindow
         {
             mRestApi = restApi;
 
-            mLicenseDownloaderNotifier = licenseDownloaderNotifier;
+            mLicenseDownloaderNotifier = licenseDownloaderNotifier;//
 
             BuildComponents();
         }

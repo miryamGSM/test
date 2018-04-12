@@ -20,7 +20,7 @@ using XDiffGui.Semantic;
 namespace Codice.CM.SemanticMerge.Gui.Merge
 {
     internal interface IMoveExplanationCalculator
-    {
+    {//
         MoveMoveExplanation GetMoveMoveExplanation(MovedMovedConflict conflict);
     }
 
