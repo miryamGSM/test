@@ -23,7 +23,7 @@ namespace Codice.CM.SemanticMerge.Gui.Merge
     {//
         MoveMoveExplanation GetMoveMoveExplanation(MovedMovedConflict conflict);
     }
-
+    //
     internal class MergePanel :
         ISyncDeclarationListener,
         IDeclarationSynchronizer,
